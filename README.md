@@ -7,7 +7,7 @@ FP&amp;A analysis of a fictitious bakery using synthetic data, Tableau, SQL &amp
 
 This project is currently **in progress**. The foundational dataset and core financial analysis are complete. Data visualizations and advanced financial metrics (e.g., EBITDA, ROI, variance reporting) are being actively developed in Tableau and Power BI. This repository will be updated regularly with new deliverables and business insights.
 
-**Last updated:** May 2025
+**Last updated:** June 2025
 
 ---
 
