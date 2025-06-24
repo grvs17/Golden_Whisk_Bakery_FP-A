@@ -2,7 +2,7 @@
 
 ## 📍 Project Background
 
-Golden Whisk Bakery, established in 2018, is an artisanal pastry company that sells its goods both through its website and physical storefronts. As the business continues to expand, Golden Whisk’s leadership is seeking insights to strategically scale operations and ensure long-term viability amid rising artisanal bakery competition.
+Golden Whisk Bakery, established in 2018, is a fictional artisanal pastry company that sells its goods both through its website and physical storefronts. As the business continues to expand, Golden Whisk’s leadership is seeking insights to strategically scale operations and ensure long-term viability amid rising artisanal bakery competition.
 
 Although Golden Whisk has collected detailed operational and sales data across its lines of business, these datasets have not been fully leveraged to support strategic decision-making. This report analyzes and synthesizes Golden Whisk’s multi-year sales data to reveal how the company can navigate rising competition, scale sustainably, and strengthen its position through strategic, data-driven decisions.
 
