@@ -21,7 +21,7 @@ Insights and recommendations are provided on the following key areas:
 
 The Golden Whisk dataset consists of two structured tables: `Brick_Mortar` and `E_Commerce`, capturing sales, cost, and margin data across 2018–2024. The combined dataset includes over 100,000 records, with each transaction categorized by date, channel, product, revenue, COGS, forecasted sales, and budget targets.
 
-<img width="500" alt="Data Schema" src="https://github.com/user-attachments/assets/f6073a0c-07c5-4144-ad5f-dde0dbccf94c" />
+<img width="500" alt="Data Schema" src="https://raw.githubusercontent.com/grvs17/Golden_Whisk_Bakery_FP-A/main/images/Data%20Schema.png" />
 
 Prior to analysis, a variety of checks were conducted for quality control and familiarization with the dataset. The SQL queries utilized to inspect and perform quality checks can be found [Link Coming Soon].
 
@@ -39,7 +39,7 @@ Key attributes include:
 
 After steady growth in the early years, Golden Whisk Bakery’s revenue reached a record $1.2M in December 2024, fueled by strong holiday demand and the success of its seasonal specials line. Over the full period analyzed (2018–2024), the company generated $43.2M in total revenue, with Brick & Mortar stores driving 70% of overall sales.
 
-<img width="1104" alt="Executive KPI Overview" src="https://github.com/user-attachments/assets/2e45a37f-465f-4c86-a7ad-72c0a4c05ed9" />
+<img width="1104" alt="Executive KPI Overview" src="https://raw.githubusercontent.com/grvs17/Golden_Whisk_Bakery_FP-A/main/images/Executive%20KPI%20Overview.png" />
 
 Despite this growth, analysis revealed two persistent challenges:
 
