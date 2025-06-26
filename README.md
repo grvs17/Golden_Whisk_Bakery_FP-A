@@ -67,7 +67,7 @@ Despite this growth, analysis revealed two persistent challenges:
 - The cake category dominated both top-line and bottom-line performance, with just three SKUs accounting for **28% of total sales** and **outperforming company-wide EBITDA benchmarks**.
 - **Pastries and beverages** delivered the highest EBITDA margins (51.7%+), with several pastries — like Pain au Chocolat, Cinnamon Roll, and Apple Turnover — also ranking among the top 30 revenue drivers. These products strike a rare balance between volume and profitability, making them prime candidates for focused growth initiatives.
 
-<img width="613" alt="Top Sellers by Channel" src="https://github.com/user-attachments/assets/6d46f1e8-dc4b-41da-bc68-c72300702315" />
+<img width="613" alt="Top Sellers by Channel" src="https://raw.githubusercontent.com/grvs17/Golden_Whisk_Bakery_FP-A/refs/heads/main/images/Top%20Sellers%20by%20Channel.png" />
 
 ### Revenue vs Profitability Gaps
 
@@ -75,7 +75,7 @@ Despite this growth, analysis revealed two persistent challenges:
 - **Mid-tier products like Macaron and Latte quietly outperformed:** Despite modest sales, they delivered superior profit margins thanks to low costs—underscoring the need to optimize for margin, not just volume.
 - **Bread consistently drives volume, not profit:** Its steady margins and popularity make it ideal as a traffic driver—supporting cross-sell opportunities with higher-margin items that lift overall basket profitability.
 
-<img width="750" alt="Profit Drivers - 2024" src="https://github.com/user-attachments/assets/3f106720-bb57-4cfc-a9c3-a75774b59a38" />
+<img width="750" alt="Profit Drivers - 2024" src="https://raw.githubusercontent.com/grvs17/Golden_Whisk_Bakery_FP-A/refs/heads/main/images/Profit%20Drivers%20-%202024.png" />
 
 ---
 
