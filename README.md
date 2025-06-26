@@ -60,7 +60,7 @@ Despite this growth, analysis revealed two persistent challenges:
 - Despite their limited release, Seasonal Specials consistently generated meaningful revenue surges, making them a high-impact lever during key holiday windows.
 - Forecasts closely mirrored actual revenue, with only a slight and consistent gap from budget targets. This level of accuracy suggests Golden Whisk’s planning process is mature — and may now support more ambitious revenue setting without sacrificing control.
 
-<img width="750" alt="Monthly Revenue Trends - 2024" src="https://github.com/user-attachments/assets/8ee6d284-72be-469d-9e50-b5714533ec3d" />
+<img width="750" alt="Monthly Revenue Trends - 2024" src="https://raw.githubusercontent.com/grvs17/Golden_Whisk_Bakery_FP-A/refs/heads/main/images/Monthly%20Revenue%20Trends%20-%202024.png" />
 
 ### Product-Level Performance
 
